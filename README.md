@@ -1,259 +1,278 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=1e0033,4B0082,8A2BE2,4B0082,1e0033&height=220&section=header&text=Enterprise%20Software%20&%20AI%20Engineer&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="Header Banner" width="100%" />
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=Building+Enterprise-Scale+Distributed+Systems;Architecting+High-Performance+AI%2FML+Solutions;Full-Stack+Product+Engineering;Driving+Innovation+Through+Robust+Code" alt="Typing SVG" />
-  </a>
-  
-  <br />
+<!-- 1. Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7b2cbf&height=250&section=header&text=Shivesh%20Vishwakarma&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI/ML%20Enthusiast&descAlignY=55&descSize=20&animation=fadeIn" alt="Header Banner">
 
-  <!-- Badges -->
-  <img src="https://img.shields.io/badge/M.S._Computer_Science-4B0082?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Academic Badge" />
-  <img src="https://img.shields.io/badge/Location-Global-8A2BE2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location Badge" />
-  
-  <br /><br />
+<a href="https://github.com/shivesh979">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Software+Engineering;Product+Engineering;Full+Stack+Development;Artificial+Intelligence" alt="Typing SVG" />
+</a>
 
-  <!-- Links -->
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-101010?style=for-the-badge&logo=dev&logoColor=A855F7&borderColor=A855F7" alt="Portfolio" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-101010?style=for-the-badge&logo=linkedin&logoColor=A855F7" alt="LinkedIn" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-101010?style=for-the-badge&logo=gmail&logoColor=A855F7" alt="Email" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=A855F7" alt="GitHub" /></a>
+<br>
 
-  <br /><br />
+<!-- Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🎓_B.E._CSE_(IoT,_Cyber_Security,_Blockchain)-Mumbai_University-3c096c?style=for-the-badge" alt="Education">
+  <img src="https://img.shields.io/badge/📍_Thane,_Maharashtra-India-5a189a?style=for-the-badge" alt="Location">
+  <img src="https://img.shields.io/badge/💼_Open_To_Work-Immediate-7b2cbf?style=for-the-badge" alt="Open To Work">
+</p>
 
-  <!-- Stats Badges -->
-  <img src="https://komarev.com/ghpvc/?username=engineering-profile&label=Profile%20Views&color=8A2BE2&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/engineering-profile?label=Followers&style=flat-square&color=4B0082&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/engineering-profile?style=flat-square&color=9400D3&logo=github" alt="Stars" />
+<p align="center">
+  <a href="https://github.com/shivesh979"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/shivesh-vishwakarma-b85731331/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:contact.shiveshvishwakarma@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shivesh979&label=Profile%20Views&color=9D4EDD&style=flat-square" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/shivesh979?label=Followers&style=flat-square&color=7b2cbf" alt="Followers">
+  <img src="https://img.shields.io/github/stars/shivesh979?style=flat-square&color=5a189a" alt="Stars">
+</p>
+
+<br>
+
+<!-- 2. About Me -->
+<h2 align="center"> 🚀 About Me </h2>
 </div>
 
----
+I am an aspiring **Software Engineer** and **Full Stack Developer** with a specialized academic background in IoT, Cyber Security, and Blockchain Technology. I am deeply passionate about building scalable, high-performance web applications and leveraging Artificial Intelligence and Machine Learning to architect intelligent solutions for real-world problems. 
 
-## 2. About
-**Senior Software Engineer & AI Architect** with a robust background in designing and scaling enterprise-grade distributed systems. Possessing a deep product engineering mindset, I bridge the gap between complex algorithmic challenges and scalable, user-centric software solutions. My core expertise lies at the intersection of high-performance backend architecture and applied Artificial Intelligence/Machine Learning.
-
-*   **Software Engineering:** Expert in microservices architecture, asynchronous event-driven design, and building resilient systems capable of handling high-throughput environments.
-*   **AI/ML Expertise:** Proficient in deploying production-ready ML models, LLM fine-tuning, RAG (Retrieval-Augmented Generation) pipelines, and optimizing MLOps workflows.
-*   **Full Stack Development:** Comprehensive experience delivering end-to-end solutions, from responsive frontend interfaces to complex database optimization and cloud infrastructure deployment.
-*   **Product Engineering:** Driven by business impact. Focused on writing clean, maintainable, and highly tested code that translates directly to enterprise value.
-*   **Open To:** Senior/Lead Engineering roles, AI Architecture positions, and impactful open-source collaborations.
-
----
-
-## 3. Tech Stack
+My engineering philosophy centers around writing clean, modular code, designing resilient backend architectures, and creating intuitive digital experiences. Whether I am deploying responsive user interfaces or training predictive ML models, I am driven by continuous learning and technical excellence.
 
 <div align="center">
-
-### Languages
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,go,java,ts,js,cpp,rust,bash&theme=dark" alt="Languages" />
-</a>
-
-### Frontend
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,redux,html,css,wasm&theme=dark" alt="Frontend" />
-</a>
-
-### Backend & Databases
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,spring,postgres,mysql,mongodb,redis,cassandra,kafka,rabbitmq&theme=dark" alt="Backend and DBs" />
-</a>
-
-### Cloud, DevOps & Tooling
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,githubactions,jenkins,linux,vim,git&theme=dark" alt="Cloud and DevOps" />
-</a>
-
+  <table>
+    <tr>
+      <td align="center"><b>🔭 Open To:</b> Software Engineering Internships | Full Stack Developer Roles | AI/ML Internships | Open Source Collaboration</td>
+    </tr>
+  </table>
 </div>
 
----
+<br>
 
-## 4. AI / ML Expertise
+<!-- 3. Tech Stack -->
+<div align="center">
+<h2 align="center"> ⚡ Tech Stack </h2>
+
+<br>
+
+**Languages**<br>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,python,javascript,c,sql&theme=dark" alt="Languages"></a>
+
+<br><br>
+
+**Frontend**<br>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,react,vite,bootstrap,tailwind&theme=dark" alt="Frontend"></a>
+
+<br><br>
+
+**Backend & Database**<br>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb&theme=dark" alt="Backend and Database"></a>
+
+<br><br>
+
+**AI / ML & Data Science**<br>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,sklearn,pandas,numpy,matplotlib,tensorflow&theme=dark" alt="AI ML"></a>
+
+<br><br>
+
+**DevOps, Tools & IDEs**<br>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,aws&theme=dark" alt="Tools"></a>
+
+<br><br>
+
+<!-- 4. AI / ML Expertise -->
+<h2 align="center"> 🧠 AI & Machine Learning Expertise </h2>
 
 | Domain | Proficiency | Details |
 | :--- | :---: | :--- |
-| **Large Language Models (LLMs)** | Advanced | Custom fine-tuning (LoRA/QLoRA), Prompt Engineering, Agentic Workflows (LangChain, LlamaIndex), RAG Architecture |
-| **Computer Vision** | Advanced | Object detection (YOLOv8), Image segmentation, CNNs, Vision Transformers (ViT), Edge deployment |
-| **NLP & Text Analytics** | Advanced | Sentiment analysis, Named Entity Recognition (NER), Semantic search, Vector databases (Pinecone, Milvus) |
-| **MLOps & Infrastructure** | Intermediate | Model registry (MLflow), Kubernetes deployment (Kubeflow), CI/CD for ML, Hardware optimization (CUDA, TensorRT) |
+| **Machine Learning** | Advanced | Supervised & Unsupervised Learning, Regression, Classification, Clustering (Scikit-Learn) |
+| **Data Analysis** | Advanced | Data Wrangling, Transformation, and EDA (Pandas, NumPy) |
+| **Feature Engineering** | Intermediate | Dimensionality Reduction, Scaling, Encoding, Pipeline Optimization |
+| **Model Evaluation** | Advanced | Cross-Validation, Hyperparameter Tuning, Metrics Analysis (Precision, Recall, F1) |
+| **Data Visualization** | Advanced | Statistical Graphics, Interactive Dashboards, Trend Mapping (Matplotlib, Seaborn) |
+| **Predictive Analytics** | Intermediate | Customer Churn Prediction, Behavioral Forecasting, Risk Assessment |
 
----
+<br><br>
 
-## 5. Featured Projects
+<!-- 5. Featured Projects -->
+<h2 align="center"> 💼 Featured Projects </h2>
+</div>
 
 <details>
-<summary><b>Project Alpha: Distributed RAG Analytics Engine</b></summary>
-<br>
-An enterprise-grade Retrieval-Augmented Generation system designed for processing and querying terabytes of unstructured financial documents with sub-second latency.
+  <summary><b>🤖 1. Churn Guard – Customer Churn Analysis & Retention Master Plan</b></summary>
+  <br>
+  
+  **Description:** An AI-powered customer churn prediction platform that analyzes behavioral datasets, calculates churn probability risk, and dynamically generates intelligent retention strategies.
+  
+  **Architecture & Features:**
+  - Machine Learning-based risk prediction engine.
+  - End-to-end RESTful APIs connecting the Python inference logic with the React frontend.
+  - High-performance dashboard mapping customer segmentation and data visualization.
 
-| Stack | Scale | Performance | Security | Impact | Repository |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Python, Go, FastAPI, Pinecone, AWS | 5TB+ Data | < 200ms latency | SOC2 Compliant | Automated 40k manual hours/yr | [View Source](#) |
+  | Category | Details |
+  | :--- | :--- |
+  | **Stack** | React, Vite, Node.js, Express.js, Python |
+  | **ML Model** | Scikit-Learn Classification Models |
+  | **Database** | MySQL (Relational Data Management) |
+  | **APIs** | Secure backend REST APIs for model inference |
+  | **Impact** | Automates retention strategies, empowering business teams with actionable ML insights |
+  
+</details>
 
-**Architecture & Implementation:**
-Architected a multi-tiered ingestion pipeline utilizing Apache Kafka for asynchronous document processing. Embedded vector representations are stored in a distributed Pinecone cluster. The query engine is written in Go to maximize concurrency, interfacing with an optimized LLM endpoint for synthesis. Implemented strict role-based access control (RBAC) and data encryption at rest and in transit.
+<details>
+  <summary><b>📊 2. Customer Churn Analysis Dashboard</b></summary>
+  <br>
+  
+  **Description:** An interactive analytics interface designed for enterprise business teams to monitor customer behavior, evaluate retention metrics, and extract actionable business intelligence.
+  
+  **Architecture & Features:**
+  - Dynamic KPI dashboard with live metric tracking.
+  - Interactive charting using modern data visualization libraries.
+  - Seamless report generation and data export functionality.
+
+  | Category | Details |
+  | :--- | :--- |
+  | **Stack** | React, JavaScript, CSS3, Data Viz Libraries |
+  | **Performance** | Optimized rendering for large dataset visualization |
+  | **Scale** | Handles multi-dimensional customer data efficiently |
+  | **Impact** | Streamlines complex data into digestible business reports |
+  
+</details>
+
+<details>
+  <summary><b>💰 3. Online Crypto Wallet</b></summary>
+  <br>
+  
+  **Description:** A secure, high-fidelity frontend crypto wallet interface engineered to facilitate modern UI development concepts and digital asset management visualization.
+  
+  **Architecture & Features:**
+  - Comprehensive wallet dashboard and holistic portfolio view.
+  - Detailed transaction history logging.
+  - Fully responsive, mobile-first design architecture.
+
+  | Category | Details |
+  | :--- | :--- |
+  | **Stack** | React, HTML5, Tailwind CSS |
+  | **Design** | Strict adherence to modern UI/UX and dark mode aesthetics |
+  | **Security** | Frontend sanitization and secure state management principles |
+  | **Impact** | Demonstrates advanced component architecture and state handling in Web3 UI contexts |
+  
 </details>
 
 <br>
-
-<details>
-<summary><b>Project Beta: High-Frequency Trading Execution Microservice</b></summary>
-<br>
-A low-latency algorithmic trading execution engine built to interface with multiple cryptocurrency exchanges via WebSockets and FIX protocols.
-
-| Stack | Scale | Performance | Security | Impact | Repository |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Rust, C++, Redis, Docker, GCP | 10k+ TPS | < 5ms execution | Network Isolation | Handled $50M+ daily volume | [View Source](#) |
-
-**Architecture & Implementation:**
-Engineered the core order routing logic in Rust for memory safety and zero-cost abstractions. Utilized Redis for lightning-fast state management and real-time risk calculations. Deployed via Kubernetes on GCP with hardware-accelerated networking. Designed comprehensive unit and integration test suites achieving 98% code coverage to ensure absolute reliability in volatile markets.
-</details>
-
-<br>
-
-<details>
-<summary><b>Project Gamma: Global E-Commerce Analytics Dashboard</b></summary>
-<br>
-A full-stack operational intelligence platform providing real-time telemetry and sales data visualization for enterprise stakeholders.
-
-| Stack | Scale | Performance | Security | Impact | Repository |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Next.js, TypeScript, PostgreSQL, GraphQL | 1M+ Users | 99.99% Uptime | OAuth 2.0 | Increased conversion tracking by 25% | [View Source](#) |
-
-**Architecture & Implementation:**
-Developed a responsive, accessible frontend utilizing Next.js and Tailwind CSS. The backend utilizes GraphQL to aggregate data from multiple heterogeneous legacy databases, optimizing query payload size. Implemented robust caching layers using Redis and CDN edge caching to ensure seamless user experience during high-traffic Black Friday events.
-</details>
-
----
-
-## 6. Experience
-
-### Senior Software Engineer
-**TechFlow Enterprise Solutions** • *Jan 2022 – Present*
-Lead engineer for the core platform team, responsible for the architecture, development, and scaling of mission-critical cloud services.
-*   Spearheaded the migration of a legacy monolithic application to a domain-driven microservices architecture, reducing deployment times by 60% and improving system fault tolerance.
-*   Designed and implemented a distributed caching strategy that decreased API response latency by 45% under peak load.
-*   Mentored a team of 6 mid-level engineers, establishing stringent code review standards and continuous integration pipelines.
-*   *Skills: Go, Node.js, Kubernetes, AWS (EKS, DynamoDB, SQS), Redis, gRPC*
-
-### AI/ML Software Engineer
-**DataVanguard Analytics** • *Aug 2019 – Dec 2021*
-Core contributor to the predictive analytics engine utilized by Fortune 500 clients for supply chain optimization.
-*   Developed highly scalable machine learning pipelines processing over 50GB of streaming telemetry data daily.
-*   Fine-tuned custom NLP models for sentiment extraction, achieving a 15% increase in accuracy over baseline models.
-*   Automated model retraining and deployment workflows using MLflow and GitHub Actions, reducing time-to-production from weeks to days.
-*   *Skills: Python, TensorFlow, PyTorch, FastAPI, Apache Kafka, Docker, MLflow*
-
----
-
-## 7. Achievements
 
 <div align="center">
+
+<!-- 6. Experience -->
+<h2 align="center"> 📈 Experience </h2>
+
+<br>
+
+| Role | Organization | Duration | Responsibilities & Tech Stack |
+| :--- | :--- | :--- | :--- |
+| **Full Stack Development Trainee** | Self-Directed / Academic | Ongoing | **Responsibilities:** Architected frontend interfaces, developed backend REST APIs, designed relational database schemas, managed Git version control, collaborated on team builds, and authored technical project documentation.<br><br>**Technologies:** React, Node.js, Express.js, MySQL, Git |
+
+<br>
+
+<!-- 7. Achievements -->
+<h2 align="center"> 🏆 Achievements </h2>
 
 | Recognition | Details |
 | :--- | :--- |
-| **Open Source Contributor Award** | Recognized for significant core contributions to major Apache Foundation projects. |
-| **Hackathon Grand Prize Winner** | 1st Place out of 500+ teams at the Global AI Innovation Summit 2023. |
-| **AWS Technical Excellence** | Featured in AWS re:Invent developer showcase for innovative serverless architecture. |
-| **Multiple Patents Pending** | Lead inventor on two patents related to distributed vector search methodologies. |
+| **Open Source Contribution** | Successfully integrated personal codebase contributions into complex agentic LLM research frameworks via repository forks and strict version control. |
+| **Engineering Competition** | Constructed and deployed functional combat robotics logic and design under team *SKS Bomber* for campus-level mechanical competitions. |
+| **Academic Excellence** | Consistently maintained high academic standing (CGPA 7.65) while completing specialized coursework in IoT, Cyber Security, and Blockchain. |
+
+<br>
+
+<!-- 8. Certifications -->
+<h2 align="center"> 📜 Certifications </h2>
+
+<img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner_Prep-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+<img src="https://img.shields.io/badge/Oracle-Database_Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
+<img src="https://img.shields.io/badge/Cisco-Networking_Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco">
+<img src="https://img.shields.io/badge/NPTEL-Computer_Science_Specializations-FF9900?style=for-the-badge" alt="NPTEL">
+<img src="https://img.shields.io/badge/Microsoft-Azure_Fundamentals_Focus-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft">
+
+<br><br>
+
+<!-- 9. Coding Profiles -->
+<h2 align="center"> 💻 Coding Profiles </h2>
+
+<a href="https://github.com/shivesh979"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="#"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
+<a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"></a>
+<a href="#"><img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
+<a href="#"><img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"></a>
+
+<br><br>
+
+<!-- 10. GitHub Analytics -->
+<h2 align="center"> 📊 GitHub Analytics </h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivesh979&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=c77dff&icon_color=9D4EDD&text_color=ffffff" alt="GitHub Stats">
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivesh979&theme=tokyonight&hide_border=true&background=0D1117&ring=9D4EDD&fire=c77dff&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivesh979&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=c77dff&text_color=ffffff" alt="Top Languages">
+</p>
+
+<br>
+
+<!-- 11. GitHub Trophies -->
+<h2 align="center"> 🏆 GitHub Trophies </h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shivesh979&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=15&title-text-color=9d4edd&text-color=ffffff" alt="Trophies">
+</p>
+
+<br>
+
+<!-- 12. Contribution Graph -->
+<h2 align="center"> 📈 Contribution Activity </h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivesh979&bg_color=0D1117&color=9D4EDD&line=7b2cbf&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph">
+</p>
+
+<br>
+
+<!-- 13. Contribution Snake -->
+<h2 align="center"> 🐍 Contribution Snake </h2>
+
+<p align="center">
+  <!-- Ensure you have setup the GitHub Action for the snake graph in your repository to make this render -->
+  <img src="https://raw.githubusercontent.com/shivesh979/shivesh979/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" onerror="this.style.display='none'">
+</p>
+
+<br>
+
+<!-- 14. Current Focus -->
+<h2 align="center"> 🎯 Current Focus </h2>
 
 </div>
-
----
-
-## 8. Certifications
-
-<div align="center">
-
-### AWS
-<img src="https://img.shields.io/badge/AWS_Certified-Solutions_Architect_Professional-4B0082?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS SA Pro" />
-<img src="https://img.shields.io/badge/AWS_Certified-Machine_Learning_Specialty-8A2BE2?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS ML Spec" />
-
-### Oracle
-<img src="https://img.shields.io/badge/Oracle_Certified_Professional-Java_SE_11_Developer-9400D3?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Java" />
-
-### NPTEL
-<img src="https://img.shields.io/badge/NPTEL_Elite_Gold-Data_Structures_&_Algorithms-4B0082?style=for-the-badge" alt="NPTEL DSA" />
-
-### Cisco
-<img src="https://img.shields.io/badge/Cisco_Certified-Network_Associate_(CCNA)-8A2BE2?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA" />
-
-</div>
-
----
-
-## 9. Coding Profiles
-
-<div align="center">
-
-<a href="#">
-  <img src="https://img.shields.io/badge/LeetCode-Top_1%25-4B0082?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Institute_Rank_1-8A2BE2?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" alt="GeeksforGeeks" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/HackerRank-6_Star_Problem_Solving-9400D3?style=for-the-badge&logo=hackerrank&logoColor=00EA64" alt="HackerRank" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/CodeChef-5_Star_Coder-4B0082?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-</a>
-
-</div>
-
----
-
-## 10. GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=torvalds&show_icons=true&hide_border=true&title_color=A855F7&icon_color=C084FC&text_color=E9D8FD&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=torvalds&hide_border=true&background=0D1117&ring=A855F7&fire=C084FC&currStreakNum=E9D8FD&sideNums=E9D8FD&currStreakLabel=A855F7&sideLabels=A855F7&dates=8A2BE2" alt="GitHub Streak" width="48%" />
-  
-  <br /><br />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torvalds&layout=compact&hide_border=true&title_color=A855F7&text_color=E9D8FD&bg_color=0D1117" alt="Top Languages" width="60%" />
-</div>
-
----
-
-## 11. GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=torvalds&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</div>
-
----
-
-## 12. Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=torvalds&bg_color=0D1117&color=A855F7&line=8A2BE2&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
-</div>
-
----
-
-## 13. Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
-</div>
-
----
-
-## 14. Current Focus
 
 ```yaml
-profile:
-  learning:
-    - Advanced Distributed Consensus Algorithms (Raft, Paxos)
-    - Hardware-Accelerated ML Training (CUDA, Triton)
-    - Quantum Machine Learning Concepts
-  building:
-    - Open-source Rust-based vector search engine
-    - Personal homelab Kubernetes cluster
-  exploring:
-    - WebAssembly (Wasm) for high-performance edge computing
-    - Zero-Knowledge Proofs (ZKPs) in privacy-preserving AI
-  status:
-    open_to: [ "Senior/Lead Engineering Roles", "AI Architecture", "Open Source Collaboration" ]
+profile_status:
+  Learning:
+    - Advanced React & Node.js Architecture
+    - System Design & Microservices
+    - Machine Learning Algorithms
+  Building:
+    - AI-powered Customer Churn Analysis Platform
+    - Production-grade Full Stack Web Applications
+  Exploring:
+    - LLM Applications & Generative AI
+    - Docker, Kubernetes & AWS Deployment
+  Reading:
+    - Clean Code concepts & Data Structures
+  Goals_2026:
+    - Secure a Software Engineering / AI Internship
+    - Contribute to major Open Source Repositories
+  Open_To:
+    - Software Engineering Internships
+    - Full Stack Developer Roles
+    - Research Opportunities
