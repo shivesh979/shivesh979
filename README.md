@@ -15,7 +15,7 @@
 - 🔭 Currently studying **Computer Science Engineering (IoT specialization)**
 - 🌱 Learning **Full Stack Development, AI/ML, Cryptography & Network Security**
 - 🤝 Open to collaborating on **AI/ML, Web Development, and Security-focused projects**
-- 💬 Ask me about **DSA, IoT, Cryptography, Ethical Hacking, Web Technologies, and Android Development**
+- 💬 Ask me about **DSA, IoT, Cryptography, Web Technologies, and Android Development**
 - 🎯 Goal: **Full Stack Developer / AI-ML Engineer**
 
 ---
